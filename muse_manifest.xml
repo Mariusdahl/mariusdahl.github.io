@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mariusdahl.dk" resolutions="1x" timestamp="1521717571650">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mariusdahl.dk" resolutions="1x" timestamp="1521756303809">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="481863707" ref="index"/>
+    <file name="site_global.css" crc="4169570097"/>
+    <file name="index.css" crc="3829768394" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,5 +11,15 @@
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
-  <file name="index.html" crc="4212870686" seo="true" mt="1521717539253" redirect="true"/>
+  <folder name="images">
+    <file name="favicon.ico" crc="4255196786" ref="index"/>
+    <file name="logo.svg" crc="3890196065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="396518963" ref="index"/>
+    <file name="250x250.jpg" crc="3854949801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="322809110" seo="true" mt="1521756266907" redirect="true"/>
 </manifest>
