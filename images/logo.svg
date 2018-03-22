@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 431.333 531.947">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7931e;
+      }
+
+      .cls-2 {
+        fill: #dd7e1f;
+      }
+
+      .cls-3 {
+        fill: #c46c1e;
+      }
+
+      .cls-4 {
+        fill: #aa591d;
+      }
+    </style>
+  </defs>
+  <title>Logo</title>
+  <g>
+    <polygon class="cls-1" points="188.45 72.67 386.694 185.096 431.333 90.068 269.406 0 188.45 72.67"/>
+    <polygon class="cls-2" points="188.45 72.67 269.406 0 383.309 246.063 286.821 356.8 188.45 72.67"/>
+    <polygon class="cls-3" points="383.309 246.063 286.821 356.8 0 340.806 12.966 229.272 383.309 246.063"/>
+    <polygon class="cls-4" points="0 340.806 277.03 531.947 333.8 443.715 12.966 229.272 0 340.806"/>
+  </g>
+</svg>
