@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mariusdahl.dk" resolutions="1x,2x" timestamp="1540931562271">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mariusdahl.dk" resolutions="1x,2x" timestamp="1542089495347">
   <folder name="css">
     <file name="site_global.css" crc="4169570097"/>
-    <file name="index.css" crc="462603018" ref="index"/>
-    <file name="nomq_index.css" crc="3887206922" ref="index"/>
+    <file name="index.css" crc="4126186503" ref="index"/>
+    <file name="nomq_index.css" crc="3854492034" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -33,5 +33,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="264061833" seo="true" mt="1540931509911" redirect="true"/>
+  <file name="index.html" crc="269468653" seo="true" mt="1542089461499" redirect="true"/>
 </manifest>
